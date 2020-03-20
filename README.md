@@ -1,2 +1,2 @@
-# CCCAT-checkin
-cccat.io daliy checkin
+# CCCAT Checkin
+cccat.io daliy checkin & send results to Telegram
